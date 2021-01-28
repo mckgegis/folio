@@ -3,7 +3,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import SheepSplash from '../Img/sheepsplash.png';
 import SheepSneakers from '../Img/sheepsneakers.png';
-import SheepApparel from '../Img/sheepapparel.png';
 import SheepCart from '../Img/sheepcart.png';
 import SheepGif from '../Img/sheep.gif';
 import LeftArrow from "../Img/left-arrow.svg";
