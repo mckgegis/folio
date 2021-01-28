@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/folio/static/css/main.4dca7e0a.chunk.css",
-    "main.js": "/folio/static/js/main.0fdeedd0.chunk.js",
-    "main.js.map": "/folio/static/js/main.0fdeedd0.chunk.js.map",
+    "main.css": "/folio/static/css/main.b4f92905.chunk.css",
+    "main.js": "/folio/static/js/main.cdfd1b2c.chunk.js",
+    "main.js.map": "/folio/static/js/main.cdfd1b2c.chunk.js.map",
     "runtime-main.js": "/folio/static/js/runtime-main.a2fe2300.js",
     "runtime-main.js.map": "/folio/static/js/runtime-main.a2fe2300.js.map",
     "static/css/2.eb43dee1.chunk.css": "/folio/static/css/2.eb43dee1.chunk.css",
-    "static/js/2.b7d64a41.chunk.js": "/folio/static/js/2.b7d64a41.chunk.js",
-    "static/js/2.b7d64a41.chunk.js.map": "/folio/static/js/2.b7d64a41.chunk.js.map",
+    "static/js/2.14cd3dbc.chunk.js": "/folio/static/js/2.14cd3dbc.chunk.js",
+    "static/js/2.14cd3dbc.chunk.js.map": "/folio/static/js/2.14cd3dbc.chunk.js.map",
     "index.html": "/folio/index.html",
-    "precache-manifest.602f2f7584d03a2a16d7cf1d5db46722.js": "/folio/precache-manifest.602f2f7584d03a2a16d7cf1d5db46722.js",
+    "precache-manifest.9057571e7d8b679bac302960b8b6866e.js": "/folio/precache-manifest.9057571e7d8b679bac302960b8b6866e.js",
     "service-worker.js": "/folio/service-worker.js",
     "static/css/2.eb43dee1.chunk.css.map": "/folio/static/css/2.eb43dee1.chunk.css.map",
-    "static/css/main.4dca7e0a.chunk.css.map": "/folio/static/css/main.4dca7e0a.chunk.css.map",
-    "static/js/2.b7d64a41.chunk.js.LICENSE.txt": "/folio/static/js/2.b7d64a41.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/folio/static/media/devicon.29f80b00.ttf",
+    "static/css/main.b4f92905.chunk.css.map": "/folio/static/css/main.b4f92905.chunk.css.map",
+    "static/js/2.14cd3dbc.chunk.js.LICENSE.txt": "/folio/static/js/2.14cd3dbc.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/folio/static/media/splash-background.1e5734cc.jpg",
     "static/media/hawaii.svg": "/folio/static/media/hawaii.5a844b16.svg",
     "static/media/left-arrow.svg": "/folio/static/media/left-arrow.6c9efe0c.svg",
     "static/media/pepperdine.svg": "/folio/static/media/pepperdine.3f09b2eb.svg",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.a2fe2300.js",
     "static/css/2.eb43dee1.chunk.css",
-    "static/js/2.b7d64a41.chunk.js",
-    "static/css/main.4dca7e0a.chunk.css",
-    "static/js/main.0fdeedd0.chunk.js"
+    "static/js/2.14cd3dbc.chunk.js",
+    "static/css/main.b4f92905.chunk.css",
+    "static/js/main.cdfd1b2c.chunk.js"
   ]
 }
