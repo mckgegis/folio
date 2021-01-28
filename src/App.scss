@@ -1,0 +1,33 @@
+@import "./StyleSheets/splash.scss";
+@import "./StyleSheets/test.scss";
+@import "./StyleSheets/project.scss";
+@import "./StyleSheets//education.scss";
+@import "./StyleSheets/devicon-colors.css";
+@import "./StyleSheets/devicon.css";
+@import "./StyleSheets/contact.scss";
+
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

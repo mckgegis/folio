@@ -1,0 +1,54 @@
+.work-container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.work-header{
+    font-size: 100px;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 50px;
+    text-align: left;
+}
+
+.work-company-position-container {
+  text-align: left;
+}
+
+.work-company-position{
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-weight: 900;
+  padding: 20px;
+  color: white;
+}
+
+.work-company-container{
+  display: flex;
+  width: 50%;
+}
+
+.work-company-logo{
+  height: auto;
+  padding: 10px;
+  width: 150px;
+}
+
+.work-company-logo-container{
+
+  height: fit-content;
+}
+
+.work-company-description{
+  text-align: left;
+  padding: 8px 0;
+  font-size: 20px;
+  color: white;
+}
+
+.work-company-info-container{
+  padding-left: 50px;
+}
