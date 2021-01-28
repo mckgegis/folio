@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a9c62d9.chunk.css",
+    "main.js": "/static/js/main.816ff505.chunk.js",
+    "main.js.map": "/static/js/main.816ff505.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f3f843c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f3f843c.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.b7d64a41.chunk.js": "/static/js/2.b7d64a41.chunk.js",
+    "static/js/2.b7d64a41.chunk.js.map": "/static/js/2.b7d64a41.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0a272957006d13766ed0aa23deafab43.js": "/precache-manifest.0a272957006d13766ed0aa23deafab43.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/static/css/2.eb43dee1.chunk.css.map",
+    "static/css/main.5a9c62d9.chunk.css.map": "/static/css/main.5a9c62d9.chunk.css.map",
+    "static/js/2.b7d64a41.chunk.js.LICENSE.txt": "/static/js/2.b7d64a41.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/devicon.29f80b00.ttf",
+    "static/media/hawaii.svg": "/static/media/hawaii.5a844b16.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.6c9efe0c.svg",
+    "static/media/pepperdine.svg": "/static/media/pepperdine.3f09b2eb.svg",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.be237328.svg",
+    "static/media/sheep.gif": "/static/media/sheep.f37ba7dd.gif",
+    "static/media/sheepapparel.png": "/static/media/sheepapparel.5eb72d9d.png",
+    "static/media/sheepcart.png": "/static/media/sheepcart.8ea96302.png",
+    "static/media/sheepsneakers.png": "/static/media/sheepsneakers.b662fc3c.png",
+    "static/media/sheepsplash.png": "/static/media/sheepsplash.c104b1eb.png",
+    "static/media/theradogs.png": "/static/media/theradogs.062878e8.png",
+    "static/media/theraprofile.png": "/static/media/theraprofile.95db974c.png",
+    "static/media/therapuppy.png": "/static/media/therapuppy.5faa0e23.png",
+    "static/media/therapuppy.gif": "/static/media/therapuppy.eb3a77e3.gif",
+    "static/media/trello-board.png": "/static/media/trello-board.095ec29a.png",
+    "static/media/trello-main.png": "/static/media/trello-main.89627b25.png",
+    "static/media/trello.gif": "/static/media/trello.283ae9d9.gif",
+    "static/media/trelloSplash.png": "/static/media/trelloSplash.e1a5ad16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3f843c.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.b7d64a41.chunk.js",
+    "static/css/main.5a9c62d9.chunk.css",
+    "static/js/main.816ff505.chunk.js"
+  ]
+}
