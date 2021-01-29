@@ -1,10 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import SheepSplash from '../Img/sheepsplash.png';
-import SheepSneakers from '../Img/sheepsneakers.png';
-import SheepCart from '../Img/sheepcart.png';
-import SheepGif from '../Img/sheep.gif';
+import SheepSplash from "../Img/sheepsplash.png";
+import SheepSneakers from "../Img/sheepsneakers.png";
+import SheepCart from "../Img/sheepcart.png";
+import SheepGif from "../Img/sheep.gif";
 import LeftArrow from "../Img/left-arrow.svg";
 import RightArrow from "../Img/right-arrow.svg";
 import CarouselContainer from "./CarouselContainer";
@@ -27,7 +27,7 @@ const Sheep = () => {
   const transitionRef = useRef();
 
   const getWidth = () => {
-    return imgContainer.current.offsetWidth - 20;
+    return imgContainer.current.offsetWidth - 16;
   };
 
   useEffect(() => {
@@ -104,20 +104,27 @@ const Sheep = () => {
             <a href="https://trello2.herokuapp.com/">Sheep</a>
           </h1>
           <p data-aos="fade-right" className="project-description">
-            A clone of goat.com, where users can buy/sell rare and exclusive sneakers and apparel
+            A clone of goat.com, where users can buy/sell rare and exclusive
+            sneakers and apparel
           </p>
           <ul>
             <li data-aos="fade-left" className="project-point">
-              Solely developed an e-commerce website over a 14-day timeframe, following RESTful APIs and reactive design principles in designing a single-page website using React.js and Redux
+              Solely developed an e-commerce website over a 14-day timeframe,
+              following RESTful APIs and reactive design principles in designing
+              a single-page website using React.js and Redux
             </li>
             <li data-aos="fade-right" className="project-point">
-              Integrated the backend with the AWS S3 with Active Storage to populate product images
+              Integrated the backend with the AWS S3 with Active Storage to
+              populate product images
             </li>
             <li data-aos="fade-left" className="project-point">
-              Designed flat payload with JBuilder on backend to render frontend components and update in real-time
+              Designed flat payload with JBuilder on backend to render frontend
+              components and update in real-time
             </li>
             <li data-aos="fade-right" className="project-point">
-              Optimized PostgreSQL database to avoid N+1 queries with Active Record associations by extracting data from multiple tables in a single query
+              Optimized PostgreSQL database to avoid N+1 queries with Active
+              Record associations by extracting data from multiple tables in a
+              single query
             </li>
           </ul>
           <h3 data-aos="zoom-in-up" className="project-technology-header">
@@ -128,7 +135,7 @@ const Sheep = () => {
               Rails
             </li>
             <li data-aos="zoom-in-up" className="project-technology">
-              PostgreSQL
+              AWS S3
             </li>
             <li data-aos="zoom-in-up" className="project-technology">
               React.js
@@ -137,7 +144,7 @@ const Sheep = () => {
               Webpack
             </li>
             <li data-aos="zoom-in-up" className="project-technology">
-              AWS S3
+              PostgreSQL
             </li>
           </div>
         </div>

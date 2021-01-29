@@ -5,13 +5,13 @@
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  // padding: 50px 0;
+  padding: 25px 0;
 }
 
 .project-img-container {
   width: 100%;
   height: auto;
-  border: 10px solid white;
+  border: 8px solid white;
   border-radius: 5px;
   overflow: hidden;
   margin: 0 auto;
@@ -51,20 +51,30 @@ $breakpoint: 500px;
 .project-splash-header {
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
-  font-size: 100px;
+  font-size: 70px;
   font-weight: 900;
   color: white;
-  margin: 30px 0;
+  margin: 15px 0;
 }
 
 .project-technology-header {
-  font-size: 50px;
+  font-size: 40px;
+  margin: 20px 0;
 }
 
 .project-technology {
-  font-size: 30px;
-  padding: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 5px;
+  margin: 3px;
   color: white;
+  background-color: #005937;
+  border-radius: 3px;
+  list-style: none;
+}
+.project-technology:hover{
+  background-color: #00a062;
+  cursor: default;
 }
 
 .project-left {
@@ -84,14 +94,14 @@ $breakpoint: 500px;
 
 .project-description {
   color: white;
-  font-size: 35px;
+  font-size: 20px;
 }
 
 .project-point {
   color: white;
   text-align: left;
-  padding: 10px 0;
-  font-size: 20px;
+  padding: 8px 0;
+  font-size: 15px;
 }
 
 .project-technology-header {
@@ -102,7 +112,7 @@ $breakpoint: 500px;
 .project-technologies-container {
   width: 100%;
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
 }
 
 i {
@@ -129,8 +139,8 @@ i {
   opacity: 0.7;
   border-radius: 50%;
   position: absolute;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
   left: 0;
   display: flex;
   align-items: center;
@@ -144,8 +154,8 @@ i {
   opacity: 0.7;
   border-radius: 50%;
   position: absolute;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
   right: 0;
   display: flex;
   align-items: center;
@@ -155,12 +165,7 @@ i {
   margin: 5px;
 }
 
-.project-arrow-background-left:hover {
-  cursor: pointer;
-}
-.project-arrow-background-right:hover {
-  cursor: pointer;
-}
+
 
 .project-links-container {
   display: flex;
@@ -169,18 +174,20 @@ i {
   padding: 50px;
 }
 .project-link-background {
-  padding: 15px;
-  margin: 15px;
+  padding: 10px;
+  margin: 10px;
   border-radius: 5px;
-  background-color: rgb(63, 167, 252);
+  background-color: rgb(128, 128, 128);
 }
-
+.project-link-background:hover{
+  cursor: pointer;
+}
 .project-link {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 700;
   color: white;
 }
 
 .project-link-background:hover {
-  background-color: rgb(106, 213, 255);
+  background-color: rgb(187, 187, 187);
 }

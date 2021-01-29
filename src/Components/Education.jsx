@@ -26,10 +26,7 @@ const Education = () => {
         <div className="education-details-container">
           <div data-aos="fade-down" className="education-title">App Academy</div>
           <p data-aos="fade-down" className="education-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eius
-            animi obcaecati magni suscipit temporibus neque officia, nemo,
-            corporis non, omnis nobis nulla porro ducimus et blanditiis?
-            Obcaecati, ipsam nostrum.
+            16 week intensive full stack software engineering bootcamp with a focus on Ruby, Rails, React, Redux, and JavaScript.  
           </p>
         </div>
       </div>
@@ -44,10 +41,10 @@ const Education = () => {
         <div className="education-details-container">
           <div data-aos="fade-down" className="education-title">University of Hawaii, Mano'a</div>
           <p data-aos="fade-down" className="education-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eius
-            animi obcaecati magni suscipit temporibus neque officia, nemo,
-            corporis non, omnis nobis nulla porro ducimus et blanditiis?
-            Obcaecati, ipsam nostrum.
+            B.S. Mathematics (Fall 2015)
+          </p>
+          <p data-aos="fade-down" className="education-description">
+            Men's Volleyball Team (2013-2015)
           </p>
         </div>
       </div>
@@ -62,10 +59,7 @@ const Education = () => {
         <div className="education-details-container">
           <div data-aos="fade-down" className="education-title">Pepperdine University</div>
           <p data-aos="fade-down" className="education-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eius
-            animi obcaecati magni suscipit temporibus neque officia, nemo,
-            corporis non, omnis nobis nulla porro ducimus et blanditiis?
-            Obcaecati, ipsam nostrum.
+            Men's Volleyball Team (2010-2012)
           </p>
         </div>
       </div>

@@ -27,7 +27,7 @@ const Trello = () => {
   const transitionRef = useRef();
 
   const getWidth = () => {
-    return imgContainer.current.offsetWidth - 20;
+    return imgContainer.current.offsetWidth - 16;
   };
 
   useEffect(() => {

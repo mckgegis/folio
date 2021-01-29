@@ -3,8 +3,8 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import TherapuppySplash from "../Img/therapuppy.png";
 import TheraGif from "../Img/therapuppy.gif";
-import TheraDogs from '../Img/theradogs.png';
-import TheraProfile from '../Img/theraprofile.png';
+import TheraDogs from "../Img/theradogs.png";
+import TheraProfile from "../Img/theraprofile.png";
 import LeftArrow from "../Img/left-arrow.svg";
 import RightArrow from "../Img/right-arrow.svg";
 import CarouselContainer from "./CarouselContainer";
@@ -27,7 +27,7 @@ const Therapuppy = () => {
   const transitionRef = useRef();
 
   const getWidth = () => {
-    return imgContainer.current.offsetWidth - 20;
+    return imgContainer.current.offsetWidth - 16;
   };
 
   useEffect(() => {
