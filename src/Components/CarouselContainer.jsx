@@ -3,7 +3,7 @@ import React from 'react';
 import { css, jsx } from '@emotion/react';
 
 const CarouselContainer = props => (
-  <div
+  <div className='CarouselContainer'
     css={css`
       transform: translateX(-${props.translate}px);
       transition: transform ease-out ${props.transition}s;
