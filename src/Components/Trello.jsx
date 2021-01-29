@@ -41,7 +41,7 @@ const Trello = () => {
     };
 
     const smooth = e => {
-      if (e.target.className.includes("CarouselContainer")) {
+      if (e.target.className.includes("css-pt5r06")) {
         transitionRef.current();
       }
     };
