@@ -62,7 +62,7 @@ const Therapuppy = () => {
     let update = [];
 
     if (idx === imgs.length - 1) {
-      update = [imgs[imgs.length - 2], lastSlide, firstSlide, secondSlide];
+      update = [imgs[imgs.length - 2], lastSlide, firstSlide, imgs[1]];
     } else if (idx === 0) {
       update = [lastSlide, firstSlide, secondSlide];
     } else {
@@ -121,7 +121,6 @@ const Therapuppy = () => {
               Constructed user authentication with Passport.js and BCrypt for
               password hashing
             </li>
-            {/* <li data-aos="fade-right" className="project-point"></li> */}
           </ul>
           <h3 data-aos="zoom-in-up" className="project-technology-header">
             Technologies
@@ -182,6 +181,7 @@ const Therapuppy = () => {
               <a
                 className="project-link"
                 href="https://github.com/hkryucr/trello-clone"
+                target="_blank"
               >
                 Github
               </a>

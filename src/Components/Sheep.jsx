@@ -186,6 +186,7 @@ const Sheep = () => {
               <a
                 className="project-link"
                 href="https://github.com/hkryucr/trello-clone"
+                target="_blank"
               >
                 Github
               </a>
