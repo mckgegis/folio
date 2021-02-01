@@ -101,7 +101,7 @@ const Trello = () => {
             data-aos-duration="3000"
             data-aos="zoom-in-down"
           >
-            <a href="https://trello2.herokuapp.com/">Trello Clone</a>
+            <a href="https://trello2.herokuapp.com/" target="_blank">Trello Clone</a>
           </h1>
           <p data-aos="fade-right" className="project-description">
             Web based, Kan-ban style, list making application to organize
@@ -177,7 +177,7 @@ const Trello = () => {
           </div>
           <div data-aos="fade-up" className="project-links-container">
             <div className="project-link-background">
-              <a className="project-link" href="https://trello2.herokuapp.com/">
+              <a className="project-link" href="https://trello2.herokuapp.com/" target="_blank">
                 Live Site
               </a>
             </div>
@@ -185,6 +185,7 @@ const Trello = () => {
               <a
                 className="project-link"
                 href="https://github.com/hkryucr/trello-clone"
+                target="_blank"
               >
                 Github
               </a>

@@ -101,7 +101,7 @@ const Therapuppy = () => {
             data-aos-duration="3000"
             data-aos="zoom-in-down"
           >
-            <a href="https://trello2.herokuapp.com/">Therapuppy</a>
+            <a href="https://therapuppy-app.herokuapp.com/#/" target="_blank">Therapuppy</a>
           </h1>
           <p data-aos="fade-right" className="project-description">
             A web application reservation system for therapy dogs
@@ -174,7 +174,7 @@ const Therapuppy = () => {
           </div>
           <div data-aos="fade-up" className="project-links-container">
             <div className="project-link-background">
-              <a className="project-link" href="https://trello2.herokuapp.com/">
+              <a className="project-link" href="https://therapuppy-app.herokuapp.com/#/" target="_blank">
                 Live Site
               </a>
             </div>

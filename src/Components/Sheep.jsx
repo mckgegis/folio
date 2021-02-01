@@ -101,7 +101,7 @@ const Sheep = () => {
             data-aos-duration="3000"
             data-aos="zoom-in-down"
           >
-            <a href="https://trello2.herokuapp.com/">Sheep</a>
+            <a href="https://sheeeep.herokuapp.com/#/" target="_blank">Sheep</a>
           </h1>
           <p data-aos="fade-right" className="project-description">
             A clone of goat.com, where users can buy/sell rare and exclusive
@@ -178,7 +178,7 @@ const Sheep = () => {
           </div>
           <div data-aos="fade-up" className="project-links-container">
             <div className="project-link-background">
-              <a className="project-link" href="https://trello2.herokuapp.com/">
+              <a className="project-link" href="https://sheeeep.herokuapp.com/#/" target="_blank">
                 Live Site
               </a>
             </div>

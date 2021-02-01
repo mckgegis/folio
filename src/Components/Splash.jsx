@@ -52,6 +52,7 @@ function Splash() {
             data-aos-duration="3000"
             data-aos-delay="2500"
             className="profile-link"
+            target="_blank"
             href="https://www.linkedin.com/in/ryan-leung-324a45188/"
           >
             <i style={{ fontSize: "20px" }} className="fab fa-linkedin"></i>
@@ -61,6 +62,7 @@ function Splash() {
             data-aos-duration="3000"
             data-aos-delay="2500"
             className="profile-link"
+            target="_blank"
             href="https://github.com/mckgegis"
           >
             <i style={{ fontSize: "20px" }} className="fab fa-github"></i>
